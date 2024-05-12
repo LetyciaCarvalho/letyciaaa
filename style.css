@@ -3,7 +3,7 @@
     --d: 10s;
     /* duration */
     display: grid;
-    width: 220px;
+    width: 240px;
   }
   
   .gallery > img {
